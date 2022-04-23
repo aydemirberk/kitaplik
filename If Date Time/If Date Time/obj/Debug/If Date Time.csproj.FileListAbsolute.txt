@@ -1,0 +1,8 @@
+C:\Users\Work\source\repos\If Date Time\If Date Time\obj\Debug\If Date Time.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\If Date Time\If Date Time\obj\Debug\If Date Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\source\repos\If Date Time\If Date Time\obj\Debug\If Date Time.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\If Date Time\If Date Time\bin\Debug\If Date Time.exe.config
+C:\Users\Work\source\repos\If Date Time\If Date Time\bin\Debug\If Date Time.exe
+C:\Users\Work\source\repos\If Date Time\If Date Time\bin\Debug\If Date Time.pdb
+C:\Users\Work\source\repos\If Date Time\If Date Time\obj\Debug\If Date Time.exe
+C:\Users\Work\source\repos\If Date Time\If Date Time\obj\Debug\If Date Time.pdb
