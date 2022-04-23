@@ -1,0 +1,8 @@
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\obj\Debug\ForLoopBreakContuniePractise.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\obj\Debug\ForLoopBreakContuniePractise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\obj\Debug\ForLoopBreakContuniePractise.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\bin\Debug\ForLoopBreakContuniePractise.exe.config
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\bin\Debug\ForLoopBreakContuniePractise.exe
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\bin\Debug\ForLoopBreakContuniePractise.pdb
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\obj\Debug\ForLoopBreakContuniePractise.exe
+C:\Users\Work\source\repos\ForLoopBreakContuniePractise\ForLoopBreakContuniePractise\obj\Debug\ForLoopBreakContuniePractise.pdb
