@@ -1,0 +1,8 @@
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\bin\Debug\WhileForeachDersiOdevi.exe.config
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\bin\Debug\WhileForeachDersiOdevi.exe
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\bin\Debug\WhileForeachDersiOdevi.pdb
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\obj\Debug\WhileForeachDersiOdevi.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\obj\Debug\WhileForeachDersiOdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\obj\Debug\WhileForeachDersiOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\obj\Debug\WhileForeachDersiOdevi.exe
+C:\Users\Work\source\repos\WhileForeachDersiOdevi\WhileForeachDersiOdevi\obj\Debug\WhileForeachDersiOdevi.pdb
