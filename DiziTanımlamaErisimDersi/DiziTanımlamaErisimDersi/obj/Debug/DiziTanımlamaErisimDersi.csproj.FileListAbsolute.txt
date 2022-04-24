@@ -1,0 +1,8 @@
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\obj\Debug\DiziTanımlamaErisimDersi.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\obj\Debug\DiziTanımlamaErisimDersi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\obj\Debug\DiziTanımlamaErisimDersi.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\bin\Debug\DiziTanımlamaErisimDersi.exe.config
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\bin\Debug\DiziTanımlamaErisimDersi.exe
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\bin\Debug\DiziTanımlamaErisimDersi.pdb
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\obj\Debug\DiziTanımlamaErisimDersi.exe
+C:\Users\Work\source\repos\DiziTanımlamaErisimDersi\DiziTanımlamaErisimDersi\obj\Debug\DiziTanımlamaErisimDersi.pdb
