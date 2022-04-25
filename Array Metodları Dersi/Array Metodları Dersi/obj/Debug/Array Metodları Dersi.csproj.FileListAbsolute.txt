@@ -1,0 +1,8 @@
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\bin\Debug\Array Metodları Dersi.exe.config
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\bin\Debug\Array Metodları Dersi.exe
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\bin\Debug\Array Metodları Dersi.pdb
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\obj\Debug\Array Metodları Dersi.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\obj\Debug\Array Metodları Dersi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\obj\Debug\Array Metodları Dersi.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\obj\Debug\Array Metodları Dersi.exe
+C:\Users\Work\source\repos\Array Metodları Dersi\Array Metodları Dersi\obj\Debug\Array Metodları Dersi.pdb
