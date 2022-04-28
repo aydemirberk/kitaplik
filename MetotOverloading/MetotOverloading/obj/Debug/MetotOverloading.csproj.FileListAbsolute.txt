@@ -1,0 +1,8 @@
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\bin\Debug\MetotOverloading.exe.config
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\bin\Debug\MetotOverloading.exe
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\bin\Debug\MetotOverloading.pdb
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.exe
+C:\Users\Work\Documents\Patika Pratikler\MetotOverloading\MetotOverloading\obj\Debug\MetotOverloading.pdb
