@@ -1,0 +1,8 @@
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\obj\Debug\Metot Tanımlama Dersi.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\obj\Debug\Metot Tanımlama Dersi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\obj\Debug\Metot Tanımlama Dersi.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\bin\Debug\Metot Tanımlama Dersi.exe.config
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\bin\Debug\Metot Tanımlama Dersi.exe
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\bin\Debug\Metot Tanımlama Dersi.pdb
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\obj\Debug\Metot Tanımlama Dersi.exe
+C:\Users\Work\source\repos\Metot Tanımlama Dersi\Metot Tanımlama Dersi\obj\Debug\Metot Tanımlama Dersi.pdb
