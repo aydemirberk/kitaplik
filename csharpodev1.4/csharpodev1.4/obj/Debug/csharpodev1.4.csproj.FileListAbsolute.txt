@@ -1,0 +1,8 @@
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\bin\Debug\csharpodev1.4.exe.config
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\bin\Debug\csharpodev1.4.exe
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\bin\Debug\csharpodev1.4.pdb
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\obj\Debug\csharpodev1.4.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\obj\Debug\csharpodev1.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\obj\Debug\csharpodev1.4.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\obj\Debug\csharpodev1.4.exe
+C:\Users\Work\Documents\Patika Pratikler\csharpodev1.4\csharpodev1.4\obj\Debug\csharpodev1.4.pdb
