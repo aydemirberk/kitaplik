@@ -1,0 +1,15 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/bin/Debug/net5.0/StringMetotlarDersi.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/bin/Debug/net5.0/StringMetotlarDersi.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/bin/Debug/net5.0/StringMetotlarDersi.runtimeconfig.dev.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/bin/Debug/net5.0/StringMetotlarDersi.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/bin/Debug/net5.0/ref/StringMetotlarDersi.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/bin/Debug/net5.0/StringMetotlarDersi.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/ref/StringMetotlarDersi.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/StringMetotlarDersi/StringMetotlarDersi/obj/Debug/net5.0/StringMetotlarDersi.genruntimeconfig.cache
