@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "91H9EOmzjduNY2XYXe8VHSwMGR3DmnHjvbELXdnIGVcsf34M74yWsD9EBv+WQA7AlZlR21YM3+cDddALvRkDdw==",
+  "success": true,
+  "projectFilePath": "/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkaydemir/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

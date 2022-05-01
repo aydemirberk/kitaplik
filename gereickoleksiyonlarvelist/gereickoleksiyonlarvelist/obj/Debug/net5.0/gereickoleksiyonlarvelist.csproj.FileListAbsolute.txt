@@ -1,0 +1,16 @@
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/bin/Debug/net5.0/gereickoleksiyonlarvelist
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/bin/Debug/net5.0/gereickoleksiyonlarvelist.deps.json
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/bin/Debug/net5.0/gereickoleksiyonlarvelist.runtimeconfig.json
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/bin/Debug/net5.0/gereickoleksiyonlarvelist.runtimeconfig.dev.json
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/bin/Debug/net5.0/gereickoleksiyonlarvelist.dll
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/bin/Debug/net5.0/gereickoleksiyonlarvelist.pdb
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.csproj.AssemblyReference.cache
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.AssemblyInfoInputs.cache
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.AssemblyInfo.cs
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.dll
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/refint/gereickoleksiyonlarvelist.dll
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.pdb
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/gereickoleksiyonlarvelist.genruntimeconfig.cache
+/Users/berkaydemir/Projects/gereickoleksiyonlarvelist/gereickoleksiyonlarvelist/obj/Debug/net5.0/ref/gereickoleksiyonlarvelist.dll
