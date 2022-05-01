@@ -1,0 +1,16 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/bin/Debug/net5.0/koleksiyonlar3arraylist
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/bin/Debug/net5.0/koleksiyonlar3arraylist.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/bin/Debug/net5.0/koleksiyonlar3arraylist.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/bin/Debug/net5.0/koleksiyonlar3arraylist.runtimeconfig.dev.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/bin/Debug/net5.0/koleksiyonlar3arraylist.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/bin/Debug/net5.0/koleksiyonlar3arraylist.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/refint/koleksiyonlar3arraylist.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/koleksiyonlar3arraylist.genruntimeconfig.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/koleksiyonlar3arraylist/koleksiyonlar3arraylist/obj/Debug/net5.0/ref/koleksiyonlar3arraylist.dll
