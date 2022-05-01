@@ -1,0 +1,15 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/bin/Debug/net6.0/HazirMetotlarDersi
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/bin/Debug/net6.0/HazirMetotlarDersi.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/bin/Debug/net6.0/HazirMetotlarDersi.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/bin/Debug/net6.0/HazirMetotlarDersi.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/bin/Debug/net6.0/HazirMetotlarDersi.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/refint/HazirMetotlarDersi.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/HazirMetotlarDersi.genruntimeconfig.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/HazirMetotlarDersi/HazirMetotlarDersi/obj/Debug/net6.0/ref/HazirMetotlarDersi.dll
