@@ -1,0 +1,16 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/bin/Debug/net5.0/patikasinifnedir
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/bin/Debug/net5.0/patikasinifnedir.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/bin/Debug/net5.0/patikasinifnedir.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/bin/Debug/net5.0/patikasinifnedir.runtimeconfig.dev.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/bin/Debug/net5.0/patikasinifnedir.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/bin/Debug/net5.0/patikasinifnedir.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/refint/patikasinifnedir.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/patikasinifnedir.genruntimeconfig.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/patikasinifnedir/patikasinifnedir/obj/Debug/net5.0/ref/patikasinifnedir.dll
