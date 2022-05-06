@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TjEz1v/RJgY6UdqjifpZIDrsQeg9if4RDaiawIUoPt4ampp4kyfQuU/9ZvQuRCT036stxX6zZGe0dMZy5FnNw==",
+  "success": true,
+  "projectFilePath": "/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/kurucufonksiyonlar.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkaydemir/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/berkaydemir/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

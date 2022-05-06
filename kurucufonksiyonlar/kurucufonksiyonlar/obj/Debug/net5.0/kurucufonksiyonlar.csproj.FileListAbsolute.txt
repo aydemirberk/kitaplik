@@ -1,0 +1,16 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/bin/Debug/net5.0/kurucufonksiyonlar
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/bin/Debug/net5.0/kurucufonksiyonlar.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/bin/Debug/net5.0/kurucufonksiyonlar.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/bin/Debug/net5.0/kurucufonksiyonlar.runtimeconfig.dev.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/bin/Debug/net5.0/kurucufonksiyonlar.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/bin/Debug/net5.0/kurucufonksiyonlar.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/refint/kurucufonksiyonlar.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/kurucufonksiyonlar.genruntimeconfig.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/kurucufonksiyonlar/kurucufonksiyonlar/obj/Debug/net5.0/ref/kurucufonksiyonlar.dll
