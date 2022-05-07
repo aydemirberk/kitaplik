@@ -1,0 +1,16 @@
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/bin/Debug/net5.0/structkavrami
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/bin/Debug/net5.0/structkavrami.deps.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/bin/Debug/net5.0/structkavrami.runtimeconfig.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/bin/Debug/net5.0/structkavrami.runtimeconfig.dev.json
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/bin/Debug/net5.0/structkavrami.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/bin/Debug/net5.0/structkavrami.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.csproj.AssemblyReference.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.AssemblyInfoInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.AssemblyInfo.cs
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/refint/structkavrami.dll
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.pdb
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/structkavrami.genruntimeconfig.cache
+/Users/berkaydemir/Documents/Patika Csharp Projeleri/structkavrami/structkavrami/obj/Debug/net5.0/ref/structkavrami.dll
