@@ -1,0 +1,16 @@
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/bin/Debug/net5.0/staticsinifveuyeler
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/bin/Debug/net5.0/staticsinifveuyeler.deps.json
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/bin/Debug/net5.0/staticsinifveuyeler.runtimeconfig.json
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/bin/Debug/net5.0/staticsinifveuyeler.runtimeconfig.dev.json
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/bin/Debug/net5.0/staticsinifveuyeler.dll
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/bin/Debug/net5.0/staticsinifveuyeler.pdb
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.csproj.AssemblyReference.cache
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.AssemblyInfoInputs.cache
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.AssemblyInfo.cs
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.dll
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/refint/staticsinifveuyeler.dll
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.pdb
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/staticsinifveuyeler.genruntimeconfig.cache
+/Users/berkaydemir/Projects/staticsinifveuyeler/staticsinifveuyeler/obj/Debug/net5.0/ref/staticsinifveuyeler.dll
