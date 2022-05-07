@@ -1,0 +1,16 @@
+/Users/berkaydemir/Projects/enumdersi/enumdersi/bin/Debug/net5.0/enumdersi
+/Users/berkaydemir/Projects/enumdersi/enumdersi/bin/Debug/net5.0/enumdersi.deps.json
+/Users/berkaydemir/Projects/enumdersi/enumdersi/bin/Debug/net5.0/enumdersi.runtimeconfig.json
+/Users/berkaydemir/Projects/enumdersi/enumdersi/bin/Debug/net5.0/enumdersi.runtimeconfig.dev.json
+/Users/berkaydemir/Projects/enumdersi/enumdersi/bin/Debug/net5.0/enumdersi.dll
+/Users/berkaydemir/Projects/enumdersi/enumdersi/bin/Debug/net5.0/enumdersi.pdb
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.csproj.AssemblyReference.cache
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.AssemblyInfoInputs.cache
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.AssemblyInfo.cs
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.csproj.CoreCompileInputs.cache
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.dll
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/refint/enumdersi.dll
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.pdb
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/enumdersi.genruntimeconfig.cache
+/Users/berkaydemir/Projects/enumdersi/enumdersi/obj/Debug/net5.0/ref/enumdersi.dll
